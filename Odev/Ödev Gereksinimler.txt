@@ -1,0 +1,6 @@
+*Form üzerinde Metin Yükle butonu olacak OpenFile dialog kullanılarak .txt dosyası seçilerek yolu metin kutusunda gösterilecek.
+*Form üzerinde Stack'e Oku butonu ile dosyadaki her bir cümle bağlı liste ali ile stack veri yapısına alınacak.
+*Form üzerinde Metin Yükle butonu olacak OpenFile dialog kullanılarak .txt dosyası seçilerek yolu metin kutusunda gösterilecek.
+*Form üzerinde Stack'e Oku butonu ile dosyadaki her bir cümle bağlı liste ali ile stack veri yapısına alınacak. 
+*Form üzerinde Metin Yükle butonu olacak OpenFile dialog kullanılarak .txt dosyası seçilerek yolu metin kutusunda gösterilecek.
+*Form üzerinde Stack'e Oku butonu ile dosyadaki her bir cümle bağlı liste ali ile stack veri yapısına alınacak.  

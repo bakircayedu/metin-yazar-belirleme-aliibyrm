@@ -1,0 +1,10 @@
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\aliba\OneDrive\Masaüstü\Odev\Odev\obj\Debug\Odev.pdb
